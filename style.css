@@ -1,4 +1,11 @@
 #container{
 display: flex;
 border: solid black 2px;
+width: 960px;
+height: 960px;}
+.top{
+    display: flex;
+}
+#new-grid{
+    margin-right: 50px;
 }
